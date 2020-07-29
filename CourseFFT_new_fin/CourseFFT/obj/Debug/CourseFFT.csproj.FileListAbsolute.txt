@@ -1,0 +1,78 @@
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\bin\Debug\CourseFFT.exe.config
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\bin\Debug\CourseFFT.exe
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\bin\Debug\CourseFFT.pdb
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csprojAssemblyReference.cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Properties.Resources.resources
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csproj.GenerateResource.cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.exe
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.pdb
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Form1.resources
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csproj.CopyComplete
+F:\CourseFFT\CourseFFT\bin\Debug\CourseFFT.exe.config
+F:\CourseFFT\CourseFFT\bin\Debug\CourseFFT.exe
+F:\CourseFFT\CourseFFT\bin\Debug\CourseFFT.pdb
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csprojAssemblyReference.cache
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Form1.resources
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Properties.Resources.resources
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csproj.GenerateResource.cache
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csproj.CopyComplete
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.exe
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.pdb
+F:\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Form2.resources
+D:\Downloads\CourseFFT\CourseFFT\bin\Debug\CourseFFT.exe.config
+D:\Downloads\CourseFFT\CourseFFT\bin\Debug\CourseFFT.exe
+D:\Downloads\CourseFFT\CourseFFT\bin\Debug\CourseFFT.pdb
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csprojAssemblyReference.cache
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Form1.resources
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Form2.resources
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.Properties.Resources.resources
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csproj.GenerateResource.cache
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.csproj.CopyComplete
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.exe
+D:\Downloads\CourseFFT\CourseFFT\obj\Debug\CourseFFT.pdb
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\bin\Debug\CourseFFT.exe.config
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\bin\Debug\CourseFFT.exe
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\bin\Debug\CourseFFT.pdb
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.csprojAssemblyReference.cache
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.Form1.resources
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.Form2.resources
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.Properties.Resources.resources
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.csproj.GenerateResource.cache
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.csproj.CopyComplete
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.exe
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.pdb
+D:\Downloads\1\CourseFFT_new\CourseFFT\bin\Debug\CourseFFT.exe.config
+D:\Downloads\1\CourseFFT_new\CourseFFT\bin\Debug\CourseFFT.exe
+D:\Downloads\1\CourseFFT_new\CourseFFT\bin\Debug\CourseFFT.pdb
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.csprojAssemblyReference.cache
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.Form1.resources
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.Form2.resources
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.Properties.Resources.resources
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.csproj.GenerateResource.cache
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.csproj.CopyComplete
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.exe
+D:\Downloads\1\CourseFFT_new\CourseFFT\obj\Debug\CourseFFT.pdb
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\bin\Debug\CourseFFT.exe.config
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\bin\Debug\CourseFFT.exe
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\bin\Debug\CourseFFT.pdb
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.csprojAssemblyReference.cache
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.Form1.resources
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.Form2.resources
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.Properties.Resources.resources
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.csproj.GenerateResource.cache
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.csproj.CopyComplete
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.exe
+F:\Паша\Учеба\ХНУРЕ\2 курс\СПЗ C#\Курсач\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.pdb
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\bin\Debug\CourseFFT.exe.config
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\bin\Debug\CourseFFT.exe
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\bin\Debug\CourseFFT.pdb
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.csprojAssemblyReference.cache
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.Form1.resources
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.Form2.resources
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.Properties.Resources.resources
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.csproj.GenerateResource.cache
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.csproj.CopyComplete
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.exe
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\CourseFFT\obj\Debug\CourseFFT.pdb

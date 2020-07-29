@@ -1,0 +1,44 @@
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\bin\Debug\Plot.dll
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\bin\Debug\Plot.pdb
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\obj\Debug\Plot.csprojAssemblyReference.cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\obj\Debug\Plot.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\obj\Debug\Plot.dll
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\obj\Debug\Plot.pdb
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\obj\Debug\Plot.UcPlot.resources
+C:\Users\Dimas\Documents\Visual Studio 2017\Projects\CourseFFT\Plot\obj\Debug\Plot.csproj.GenerateResource.cache
+F:\CourseFFT\Plot\bin\Debug\Plot.dll
+F:\CourseFFT\Plot\bin\Debug\Plot.pdb
+F:\CourseFFT\Plot\obj\Debug\Plot.csprojAssemblyReference.cache
+F:\CourseFFT\Plot\obj\Debug\Plot.UcPlot.resources
+F:\CourseFFT\Plot\obj\Debug\Plot.csproj.GenerateResource.cache
+F:\CourseFFT\Plot\obj\Debug\Plot.dll
+F:\CourseFFT\Plot\obj\Debug\Plot.pdb
+D:\Downloads\CourseFFT\Plot\bin\Debug\Plot.dll
+D:\Downloads\CourseFFT\Plot\bin\Debug\Plot.pdb
+D:\Downloads\CourseFFT\Plot\obj\Debug\Plot.csprojAssemblyReference.cache
+D:\Downloads\CourseFFT\Plot\obj\Debug\Plot.UcPlot.resources
+D:\Downloads\CourseFFT\Plot\obj\Debug\Plot.csproj.GenerateResource.cache
+D:\Downloads\CourseFFT\Plot\obj\Debug\Plot.dll
+D:\Downloads\CourseFFT\Plot\obj\Debug\Plot.pdb
+D:\Downloads\1\CourseFFT_new\Plot\bin\Debug\Plot.dll
+D:\Downloads\1\CourseFFT_new\Plot\bin\Debug\Plot.pdb
+D:\Downloads\1\CourseFFT_new\Plot\obj\Debug\Plot.csprojAssemblyReference.cache
+D:\Downloads\1\CourseFFT_new\Plot\obj\Debug\Plot.UcPlot.resources
+D:\Downloads\1\CourseFFT_new\Plot\obj\Debug\Plot.csproj.GenerateResource.cache
+D:\Downloads\1\CourseFFT_new\Plot\obj\Debug\Plot.dll
+D:\Downloads\1\CourseFFT_new\Plot\obj\Debug\Plot.pdb
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\Курсач\CourseFFT_new_fin\Plot\bin\Debug\Plot.dll
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\Курсач\CourseFFT_new_fin\Plot\bin\Debug\Plot.pdb
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\Курсач\CourseFFT_new_fin\Plot\obj\Debug\Plot.csprojAssemblyReference.cache
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\Курсач\CourseFFT_new_fin\Plot\obj\Debug\Plot.UcPlot.resources
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\Курсач\CourseFFT_new_fin\Plot\obj\Debug\Plot.csproj.GenerateResource.cache
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\Курсач\CourseFFT_new_fin\Plot\obj\Debug\Plot.dll
+F:\Паша\Учеба\ХНУРЕ\2 курс\1 семестр\СПЗ C#\Курсач\CourseFFT_new_fin\Plot\obj\Debug\Plot.pdb
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\bin\Debug\Plot.dll
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\bin\Debug\Plot.pdb
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\obj\Debug\Plot.csprojAssemblyReference.cache
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\obj\Debug\Plot.UcPlot.resources
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\obj\Debug\Plot.csproj.GenerateResource.cache
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\obj\Debug\Plot.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\obj\Debug\Plot.dll
+C:\Users\Dimas\Desktop\курсовой\CourseFFT_new_fin\CourseFFT_new_fin\Plot\obj\Debug\Plot.pdb
